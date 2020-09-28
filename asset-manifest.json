@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ecommerce/static/js/main.e61457a9.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.e61457a9.chunk.js.map",
+    "runtime-main.js": "/ecommerce/static/js/runtime-main.14e416f3.js",
+    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.14e416f3.js.map",
+    "static/js/2.9e29ee9f.chunk.js": "/ecommerce/static/js/2.9e29ee9f.chunk.js",
+    "static/js/2.9e29ee9f.chunk.js.map": "/ecommerce/static/js/2.9e29ee9f.chunk.js.map",
+    "index.html": "/ecommerce/index.html",
+    "precache-manifest.565cd6150ab0c8b6e938e6e7836fa727.js": "/ecommerce/precache-manifest.565cd6150ab0c8b6e938e6e7836fa727.js",
+    "service-worker.js": "/ecommerce/service-worker.js",
+    "static/js/2.9e29ee9f.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.9e29ee9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14e416f3.js",
+    "static/js/2.9e29ee9f.chunk.js",
+    "static/js/main.e61457a9.chunk.js"
+  ]
+}
