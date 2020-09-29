@@ -1,19 +1,30 @@
 {
   "files": {
-    "main.js": "/ecommerce/static/js/main.e95650ba.chunk.js",
-    "main.js.map": "/ecommerce/static/js/main.e95650ba.chunk.js.map",
+    "main.css": "/ecommerce/static/css/main.b723464b.chunk.css",
+    "main.js": "/ecommerce/static/js/main.a1c43f9a.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.a1c43f9a.chunk.js.map",
     "runtime-main.js": "/ecommerce/static/js/runtime-main.14e416f3.js",
     "runtime-main.js.map": "/ecommerce/static/js/runtime-main.14e416f3.js.map",
-    "static/js/2.65d934e1.chunk.js": "/ecommerce/static/js/2.65d934e1.chunk.js",
-    "static/js/2.65d934e1.chunk.js.map": "/ecommerce/static/js/2.65d934e1.chunk.js.map",
+    "static/js/2.c0301a5a.chunk.js": "/ecommerce/static/js/2.c0301a5a.chunk.js",
+    "static/js/2.c0301a5a.chunk.js.map": "/ecommerce/static/js/2.c0301a5a.chunk.js.map",
     "index.html": "/ecommerce/index.html",
-    "precache-manifest.b40d273b33f5608f1ab3da27497db708.js": "/ecommerce/precache-manifest.b40d273b33f5608f1ab3da27497db708.js",
+    "precache-manifest.3e88a12d3ea821948e1b9addb55873c4.js": "/ecommerce/precache-manifest.3e88a12d3ea821948e1b9addb55873c4.js",
     "service-worker.js": "/ecommerce/service-worker.js",
-    "static/js/2.65d934e1.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.65d934e1.chunk.js.LICENSE.txt"
+    "static/css/main.b723464b.chunk.css.map": "/ecommerce/static/css/main.b723464b.chunk.css.map",
+    "static/js/2.c0301a5a.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.c0301a5a.chunk.js.LICENSE.txt",
+    "static/media/banana.jpg": "/ecommerce/static/media/banana.da2547a9.jpg",
+    "static/media/brocolli.jpg": "/ecommerce/static/media/brocolli.921465ef.jpg",
+    "static/media/cauliflower.jpg": "/ecommerce/static/media/cauliflower.06dc376e.jpg",
+    "static/media/fruits.jpg": "/ecommerce/static/media/fruits.75e19110.jpg",
+    "static/media/guava.jpg": "/ecommerce/static/media/guava.19632395.jpg",
+    "static/media/lady_finger.jpg": "/ecommerce/static/media/lady_finger.83d63239.jpg",
+    "static/media/mango.jpg": "/ecommerce/static/media/mango.8cffd261.jpg",
+    "static/media/vegetables.jpg": "/ecommerce/static/media/vegetables.c95dcc57.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.14e416f3.js",
-    "static/js/2.65d934e1.chunk.js",
-    "static/js/main.e95650ba.chunk.js"
+    "static/js/2.c0301a5a.chunk.js",
+    "static/css/main.b723464b.chunk.css",
+    "static/js/main.a1c43f9a.chunk.js"
   ]
 }
